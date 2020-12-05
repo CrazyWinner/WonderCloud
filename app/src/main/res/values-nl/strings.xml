@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WonderCloud</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="minimum_word_length">Minimum word length</string>
+    <string name="maximum_word_count">Maximum word count</string>
+    <string name="excluded_words">Exluded words</string>
+    <string name="time_frame">Time Frame</string>
+    <string name="colors">Colors</string>
+    <string name="desc_quality">Quality of picture of word cloud. If you raise the quality it will take longer to create</string>
+    <string name="desc_maximum_word_count">Maximum number of words will be in cloud</string>
+    <string name="desc_minimum_word_length">Minimum length of words will be in cloud</string>
+    <string name="desc_excluded_words">Words or sentences those won\'t be in cloud</string>
+    <string name="desc_colors">Colors of background and words</string>
+    <string name="desc_time_frame">Time frame to look for</string>
+    <string name="desc_font">Cloud text font</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_chatcloud">Welcome</string>
+    <string name="secure">Secure</string>
+    <string name="easy_to_use">Easy to use</string>
+    <string name="only_one_permission">Only one permission</string>
+    <string name="welcome_desc">It\'s an app that you can create word clouds from your whatsapp chats.</string>
+    <string name="easy_desc">You can create your own word clouds in seconds.</string>
+    <string name="secure_desc">We don\'t even ask for internet permission. App doesn\'t keep your chat files, deletes them instantly.</string>
+    <string name="permission_desc">Only one permission needed to save clouds.</string>
+    <string name="wip">Work in progress</string>
+    <string name="quality">Quality</string>
+    <string name="font">Font</string>
+    <string name="change">Change</string>
+    <string name="wordcolor">Word Color</string>
+    <string name="backgroundcolor">Background Color</string>
+    <string name="didntexclude">You didn\'t exclude any words</string>
+    <string name="add">Add</string>
+    <string name="preview">Preview</string>
+    <string name="grantpermission">Grant Permission</string>
+    <string-array name="qualities">
+        <item>Lowest</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Higher</item>
+        <item>Maximum</item>
+    </string-array>
+    <string-array name="colormodes">
+        <item>Single</item>
+        <item>Random</item>
+        <item>Range</item>
+        <item>Clear</item>
+    </string-array>
+    <string-array name="timemodes">
+        <item>All time</item>
+        <item>Range</item>
+    </string-array>
+    <string name="loading">Loading..</string>
+    <string name="pleasewait">Please wait</string>
+    <string name="suchempty">Such empty</string>
+    <string name="everythingready">Everything is ready</string>
+    <string name="desc_everything">Everything is ready but first we recommend you to learn how to create</string>
+    <string name="permissiongranted">Permission granted</string>
+    <string name="nothanks">No,thanks</string>
+    <string name="takeatour">Let\'s go</string>
+    <string name="notwhatsapp">The file you are trying to open is now Whatsapp file</string>
+    <string name="cantfind">Can\'t find any word</string>
+    <string name="howtocreate">How to create</string>
+    <string name="step1">Step 1</string>
+    <string name="step2">Step 2</string>
+    <string name="step3">Step 3</string>
+    <string name="step4">Step 4</string>
+    <string name="step5">Step 5</string>
+    <string name="step6">Step 6</string>
+    <string name="step1desc">First you need to open the chat you want to create word cloud.</string>
+    <string name="step2desc">Tap the three dots on the up right corner</string>
+    <string name="step3desc">Select More option</string>
+    <string name="step4desc">Then select export chat</string>
+    <string name="step5desc">Select without media</string>
+    <string name="step6desc">After Whatsapp finishes exporting select create word cloud</string>
+    <string name="share">Share</string>
+    <string name="areyousure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="dateformatnotfound">Date format not found</string>
+    <string name="delete">Delete</string>
+    <string name="about">About</string>
+    <string name="translate">Translate</string>
+    <string name="shareapp">Share app</string>
+
+    <string-array name="defaultexcluded">
+        <item>&lt;media weggelaten&gt;</item>
+        <item>dit bericht is verwijderd</item>
+        <item>u hebt dit bericht verwijderd</item>
+        <item>gemiste video-oproep</item>
+        <item>gemiste groepsvideo-oproep</item>
+		<item>gemiste spraakoproep</item>
+		<item>gemiste groepsoproep</item>
+    </string-array>
+
+</resources>

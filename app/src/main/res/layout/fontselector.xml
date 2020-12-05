@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    >
+    <com.shawnlin.numberpicker.NumberPicker
+        android:id="@+id/font_picker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_gravity="top"
+        app:np_width="180dp"
+        app:np_textSize="20sp"
+        app:np_dividerDistance="150dp"
+        app:np_height="60dp"
+        app:np_dividerColor="@color/colorPrimary"
+        app:np_orientation="horizontal"
+        app:np_selectedTextColor="@color/colorPrimary"
+        app:np_textColor="@color/colorPrimary"
+
+        />
+<TextView
+    android:layout_width="wrap_content"
+    android:id="@+id/text_preview"
+    android:textSize="20sp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:text="@string/preview"
+    android:layout_marginBottom="20dp"
+    />
+
+</LinearLayout>

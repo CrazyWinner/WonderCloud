@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WonderCloud</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="minimum_word_length">Minimum kelime uzunluğu</string>
+    <string name="maximum_word_count">Maksimum kelime sayısı</string>
+    <string name="excluded_words">Sayılmayacak kelimeler</string>
+    <string name="time_frame">Zaman aralığı</string>
+    <string name="colors">Renk</string>
+    <string name="desc_quality">Resmin kalitesi. Ne kadar yüksekse oluşturması o kadar zaman alır</string>
+    <string name="desc_maximum_word_count">Bulutta olacak maksimum kelime sayısı</string>
+    <string name="desc_minimum_word_length">Buluttaki kelimelerdeki minimum harf sayısı</string>
+    <string name="desc_excluded_words">Bulutta olmayacak kelimeler veya cümleler</string>
+    <string name="desc_colors">Arkaplan ve yazı rengi</string>
+    <string name="desc_time_frame">Bakılacak zaman aralığı</string>
+    <string name="desc_font">Bulutun yazı stili</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="welcome_to_chatcloud">Hoşgeldiniz</string>
+    <string name="secure">Güvenli</string>
+    <string name="easy_to_use">Kullanımı kolay</string>
+    <string name="only_one_permission">Sadece bir izin</string>
+    <string name="welcome_desc">WhatsApp konuşmalarınızdaki en çok kullanılan kelimeleri bulun.</string>
+    <string name="easy_desc">En çok kullanılan kelimelerden kelime bulutu oluşturun.</string>
+    <string name="secure_desc">Konuşmalar bulut oluşturulduktan sonra silinir.</string>
+    <string name="permission_desc">Bulutları kaydetmek için sadece bir izin gerekiyor.</string>
+    <string name="wip">Yapım aşamasında</string>
+    <string name="quality">Kalite</string>
+    <string name="font">Yazı biçimi</string>
+    <string name="change">Değiştir</string>
+    <string name="wordcolor">Kelime renkleri</string>
+    <string name="backgroundcolor">Arkaplan rengi</string>
+    <string name="didntexclude">Hiç kelime eklemediniz</string>
+    <string name="add">Ekle</string>
+    <string name="preview">Önizleme</string>
+    <string name="grantpermission">İzin ver</string>
+    <string-array name="qualities">
+        <item>En düşük</item>
+        <item>Düşük</item>
+        <item>Orta</item>
+        <item>Yüksek</item>
+        <item>Çok yüksek</item>
+        <item>Maksimum</item>
+    </string-array>
+    <string-array name="colormodes">
+        <item>Tek renk</item>
+        <item>Rastgele</item>
+        <item>Aralık</item>
+        <item>Saydam</item>
+    </string-array>
+    <string-array name="timemodes">
+        <item>Tüm zamanlar</item>
+        <item>Aralık</item>
+    </string-array>
+    <string name="loading">Yükleniyor..</string>
+    <string name="pleasewait">Lütfen bekleyiniz</string>
+    <string name="suchempty">Bomboş buralar</string>
+    <string name="everythingready">Her şey hazır</string>
+    <string name="desc_everything">Her şey hazır fakat öncesinde nasıl kullanıldığını öğrenmeniz gerekiyor.</string>
+    <string name="permissiongranted">İzin verildi</string>
+    <string name="nothanks">Hayır teşekkürler</string>
+    <string name="takeatour">Başlayalım</string>
+    <string name="notwhatsapp">Açmaya çalıştığınız dosya Whatsapp dosyası değil</string>
+    <string name="cantfind">Hiç kelime bulunamadı</string>
+    <string name="howtocreate">Nasıl oluştururum</string>
+    <string name="step1">1. Adım</string>
+    <string name="step2">2. Adım</string>
+    <string name="step3">3. Adım</string>
+    <string name="step4">4. Adım</string>
+    <string name="step5">5. Adım</string>
+    <string name="step6">6. Adım</string>
+    <string name="step1desc">İlk olarak bulut oluşturmak istediğiniz sohbeti açın.</string>
+    <string name="step2desc">Sağ üstteki üç noktaya dokunun</string>
+    <string name="step3desc">Diğer seçeneğini seçin</string>
+    <string name="step4desc">Sohbeti dışarı aktara dokunun</string>
+    <string name="step5desc">Medyasız seçeneğini seçin</string>
+    <string name="step6desc">Whatsapp dışarı aktarmayı bitirdikten sonra kelime bulutu oluştura dokunun</string>
+    <string name="share">Paylaş</string>
+    <string name="areyousure">Emin misiniz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="dateformatnotfound">Tarih formatı bulunamadı</string>
+    <string name="delete">Delete</string>
+    <string name="about">About</string>
+    <string name="translate">Translate</string>
+    <string name="shareapp">Share app</string>
+    <string-array name="defaultexcluded">
+        <item>&lt;medya dahil edilmedi&gt;</item>
+        <item>bu mesaj silindi</item>
+        <item>bu mesajı sildiniz</item>
+        <item>cevapsız görüntülü arama</item>
+        <item>cevapsız görüntülü grup araması</item>
+		<item>cevapsız sesli arama</item>
+		<item>cevapsız sesli grup araması</item>
+    </string-array>
+
+</resources>
